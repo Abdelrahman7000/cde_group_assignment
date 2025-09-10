@@ -6,7 +6,7 @@ Quickly move to section you are interested in by clicking on appropriate link:
 - [Overview](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#overview)
 - [Project Objective](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#objectives)
 - [Data Model](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#data-model)
-- [Exploratory Data Analysis (EDA) ](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#exploratory-data-analysis-(eda))
+- [Exploratory Data Analysis (EDA) ](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#exploratory-data-analysis-eda)
 - [Tech Stack](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#tech-stack)
 - [Analysis Workflow](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#analysis-workflow)
 - [Key Insights](https://github.com/Abdelrahman7000/cde_group_assignment/tree/oluwagbemiga-adegboyega#key-insights)
