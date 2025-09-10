@@ -52,18 +52,23 @@ The main objectives of this analysis:
 
 ![alt text](Images/Revenue.png)
 <p align="center"><em>Revenue by Paper Type</em></p>
+---
 
 ![alt text](Images/RevenueTrend.png)
 <p align="center"><em>Revenue Trend Analysis (Year and Quarter)</em></p>
+---
 
 ![alt text](Images/RevenueTrend2.png)
 <p align="center"><em>Revenue Trend Analysis (Month and Day)</em></p>
+---
 
 ![alt text](Images/Region.png)
 <p align="center"><em>Regional Performance</em></p>
+---
 
 ![alt text](Images/Channel.png)
 <p align="center"><em>Channel Pattern</em></p>
+---
 
 ![alt text](Images/CustomerAnalysis.png)
 <p align="center"><em>Customer Analysis</em></p>
