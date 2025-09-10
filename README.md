@@ -7,7 +7,7 @@ Quickly move to section you are interested in by clicking on appropriate link:
 - [Project Objective](#objectives)
 - [Data Model](#data-model)
 - [Exploratory Data Analysis (EDA) ](#exploratory-data-analysis-eda)
-- [Tech Stack](h#tech-stack)
+- [Tech Stack](#tech-stack)
 - [Analysis Workflow](#analysis-workflow)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
